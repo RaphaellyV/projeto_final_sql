@@ -1,4 +1,4 @@
--- Exibindo dados completos da locações
+-- Exibindo dados completos das locações
 SELECT L.ID,
        L.START_DATE,
        L.END_DATE,
