@@ -4,7 +4,7 @@ CREATE TABLE CAR_MODELS (
     MODEL_NAME VARCHAR(100) NOT NULL
 );
 
--- Inserindo dados na Tabela CUSTOMERS (Clientes)
+-- Inserindo dados na Tabela CAR_MODELS (Models)
 
 INSERT INTO CAR_MODELS (MODEL_NAME)
     VALUES ('Conversível'),
